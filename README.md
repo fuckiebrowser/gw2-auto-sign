@@ -1,0 +1,1 @@
+# gw2-auto-sign
